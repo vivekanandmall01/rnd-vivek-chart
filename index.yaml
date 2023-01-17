@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-17T12:23:58.1660307+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 75e80a1cfce07206a2f0c1f7f7885da208184d82d59ab74459d580ad399d451a
+    name: myapp
+    type: application
+    urls:
+    - https://github.com/vivekanandmall01/rnd-vivek-chart/myapp-0.1.0-master.tgz
+    version: 0.1.0-master
+generated: "2023-01-17T12:23:58.1642046+05:30"
